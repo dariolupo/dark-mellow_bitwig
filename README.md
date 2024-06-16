@@ -7,6 +7,7 @@ A dark theme for Bitwig Studio with a soft color palette. To be used with [Theme
 - A Bitwig's color palette made for the theme plus 3 extra ones which I also think work well with it (optional)
 
 **Instructions**
+- Backup your files and folders!!!
 - Install theme file using [Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
 - If you want to use the included custom icons, replace the original ones in the respective Bitwig app folders:
   - /Resources/icons/browser

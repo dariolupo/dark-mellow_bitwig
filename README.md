@@ -1,4 +1,4 @@
-![image](https://github.com/dariolupo/dark-mellow_bitwig/assets/4670078/41280c2f-baa1-4212-b62b-b34c722cc685)# Dark Mellow for Bitwig
+# Dark Mellow for Bitwig
 A dark theme for Bitwig Studio with a soft color palette. To be used with [Theme Editor by Berikai](https://github.com/Berikai/bitwig-theme-editor)
 
 ## What's included

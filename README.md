@@ -27,3 +27,10 @@ Screenshot taken with Midtones at 0 and Black Level at 50
 Screenshot taken with Midtones at 0 and Black Level also at 0 (full dark)
 
 ![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Full%20Dark%20Screenshot.jpg)
+
+A couple examples of custom icons in browser
+
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Custom%20Icons%20Screenshot%201.png)
+
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Custom%20Icons%20Screenshot%202.png)
+

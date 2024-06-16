@@ -17,7 +17,7 @@ A dark theme for Bitwig Studio with a soft color palette. To be used with [Theme
 ## Notes
 - This is my first theme and Bitwig themes are a new thing, use it at your own risk.
 - Not all icons are replaced, but I tried to replace most of them, if you think more should be replaced, feel free to let me know
-- I find the theme to be working best when using Midtones at 0 in Bitwig Settings, and Black Level between 0 and 50 (adjust to your liking)
+- I find the theme to be working best when using Midtones at 0 in Bitwig Settings and Black Level between 0 and 50 (adjust to your liking)
   
 ## Screenshots
 Screenshot taken with Midtones at 0 and Black Level at 50

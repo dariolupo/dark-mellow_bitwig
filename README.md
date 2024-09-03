@@ -20,17 +20,10 @@ A dark theme for Bitwig Studio with a soft color palette. To be used with [Theme
 - I find the theme to be working best when using Midtones at 0 in Bitwig Settings and Black Level between 0 and 50 (adjust to your liking)
   
 ## Screenshots
-Screenshot taken with Midtones at 0 and Black Level at 50
 
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Screenshot.jpg)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Arranger.jpg)
 
-Screenshot taken with Midtones at 0 and Black Level also at 0 (full dark)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Edit.jpg)
 
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Full%20Dark%20Screenshot.jpg)
-
-A couple examples of custom icons in browser
-
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Custom%20Icons%20Screenshot%201.png)
-
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Custom%20Icons%20Screenshot%202.png)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Mixer.jpg)
 

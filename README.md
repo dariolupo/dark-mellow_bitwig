@@ -21,9 +21,9 @@ A dark theme for Bitwig Studio with a soft color palette. To be used with [Theme
   
 ## Screenshots
 
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Arranger.jpg)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Arranger.png)
 
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Edit.jpg)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Edit.png)
 
-![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Mixer.jpg)
+![Screenshot](https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/1.6/DM_Mixer.png)
 
